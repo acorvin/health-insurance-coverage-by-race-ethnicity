@@ -71,5 +71,4 @@ After installing the dependencies and launching Jupyter Notebook, open the `anal
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-"""
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
