@@ -5,7 +5,7 @@ This project visualizes the 2022 Health Insurance Coverage data by race and ethn
 ## Preview
 ![Interactive Map](interactive-map.gif)
 
-
+## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -40,22 +40,22 @@ The interactive map enables users to select different racial and ethnic groups t
 
 1. **Clone the Repository**
 
-   \```bash
+  ```bash
    git clone https://github.com/acorvin/health-insurance-coverage-by-race-ethnicity.git
    cd health-insurance-coverage-by-race-ethnicity
-   \```
+  ```
 
 2. **Install Required Libraries**:
 
-   \```bash
+  ```bash
    pip install -r requirements.txt
-   \```
+  ```
 
 3. **Launch Jupyter Notebook**:
 
-   \```bash
+   ```bash
    jupyter notebook
-   \```
+   ```
 
    Navigate to the notebook file within the Jupyter interface to open and run it.
 
