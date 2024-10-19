@@ -42,6 +42,7 @@ The interactive map enables users to select different racial and ethnic groups t
 
   ```bash
    git clone https://github.com/acorvin/health-insurance-coverage-by-race-ethnicity.git
+
    cd health-insurance-coverage-by-race-ethnicity
   ```
 
@@ -53,11 +54,11 @@ The interactive map enables users to select different racial and ethnic groups t
 
 3. **Launch Jupyter Notebook**:
 
-   ```bash
+  ```bash
    jupyter notebook
-   ```
+  ```
 
-   Navigate to the notebook file within the Jupyter interface to open and run it.
+Navigate to the notebook file within the Jupyter interface to open and run it.
 
 ## Usage
 
