@@ -69,10 +69,6 @@ After installing the dependencies and launching Jupyter Notebook, open the `anal
 [SHADAC analysis of the American Community Survey (ACS) Public Use Microdata Sample (PUMS) files.](https://statehealthcompare.shadac.org/table/29/health-insurance-coverage-type-by-race-ethnicity#2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52/39,40,41,42,238,43,239,1,8,6/42/58)
 
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit pull requests with your proposed changes.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
